@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there
+
+[Blog](https://blog.furas.pl)
 
 <!--
 **furas/furas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
